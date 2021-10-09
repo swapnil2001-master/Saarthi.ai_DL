@@ -4,6 +4,8 @@ This is a saarthi.ai deep learning task given in online assessment round.
 ## Prerequisites
 - Python 3.8
 - Tensorflow 2.5.0
+- Tensorflow hub
+- scikit learn
 
 Substitute the test data in data folder for testing the f1 score .
 
