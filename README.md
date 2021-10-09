@@ -7,4 +7,5 @@ This is a saarthi.ai deep learning task given in online assessment round.
 
 Substitute the test data in data folder for testing the f1 score .
 
-To run the file type py train.py --config "path of config file"
+To run the file type 
+```py train.py --config "path of config file"```
