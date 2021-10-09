@@ -1,0 +1,7 @@
+{
+    "Epochs" : 10,
+    "Data_Path" : "data\\train_data.csv",
+    "Val_Data_Path" : "data\\valid_data.csv",
+	"Test_Data_Path" : "data\\test_data.csv",
+    "Batch_size" : 64
+}
